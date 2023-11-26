@@ -22,7 +22,7 @@ A simple and responsive Weather web app built using HTML, CSS and Javascript. It
 
 [Website Link](https://jeanraisa.github.io/Weather-App/)
 
-You can watch a short demo of how the Weather app works [here](xxx).
+You can watch a short demo of how the Weather app works [here](https://www.loom.com/share/dc56cfe3bd204091b73af92e604a3197).
 
 ## Getting Started
 
