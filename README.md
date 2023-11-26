@@ -1,5 +1,6 @@
 # Weather App
 <img src="https://github.com/jeanraisa/Weather-App/blob/47d42de9a95e9cc64ed5f8c442b92c79b1a1182e/images/Screenshot%202021-08-29%20at%208.15.21%20PM-min.png">
+
 ## Table of Contents
 
 - [Introduction](#introduction)
