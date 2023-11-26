@@ -23,7 +23,7 @@ A simple and responsive Weather web app built using HTML, CSS and Javascript. It
 
 [Website Link](https://jeanraisa.github.io/Weather-App/)
 
-You can watch a short demo of how the GitHub Repositories Fetcher app works [here](xxx).
+You can watch a short demo of how the Weather app works [here](xxx).
 
 ## Getting Started
 
