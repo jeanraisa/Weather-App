@@ -15,7 +15,7 @@ A simple and responsive Weather web app built using HTML, CSS and Javascript. It
 
 ## Features
 
-- Fetch and display repositories based on city name.
+- Fetch and display weather information based on city name.
 - Display each city's temperature, weather, humidity and wind speed details.
 
 ## Demo
