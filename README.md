@@ -29,7 +29,7 @@ You can watch a short demo of how the Weather app works [here](https://www.loom.
 To run the app locally, follow these steps:
 
 1. Clone this repository: `git clone https://github.com/jeanraisa/Weather-App.git`
-2. Navigate to the project directory: `cd Fetcher-app`
+2. Navigate to the project directory: `cd Weather-App`
 3. Install dependencies: `npm install`
 4. Start the app: `npm start`
 
